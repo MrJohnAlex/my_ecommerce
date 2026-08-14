@@ -461,9 +461,3 @@ Then start again:
 ```bash
 docker compose up
 ```
-
-## 📄 License
-
-This project is currently for development and learning purposes.
-
-Add your preferred license here when the project is ready for distribution.
