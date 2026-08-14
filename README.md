@@ -1,4 +1,4 @@
-# MyApp — NestJS + React + MySQL + Docker
+# My Ecommerce App — NestJS + React + MySQL + Docker
 
 A full-stack application built with **NestJS**, **React**, and **MySQL**, with Docker Compose for local development.
 
